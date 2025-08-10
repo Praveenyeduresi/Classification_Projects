@@ -1,4 +1,4 @@
-Project Title : Mobile Price Classification.
+**Project Title : Mobile Price Classification.**
 
 Technologies Used: Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, tensorflow, statsmodels, --- Languages: Python.
 
