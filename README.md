@@ -2,7 +2,7 @@
 
 Hi, 👋 I am **Praveen Yeduresi**. This repository contains some of the projects I have worked on across different domains.
 
-1. [Banking_Churn_prediction](.[/Banking%20Churn%20prediction](https://github.com/Praveenyeduresi/Classification_Projects/tree/main/Banking_Churn_prediction))
+1. [[Banking_Churn_prediction](.[/Banking%20Churn%20prediction])](https://github.com/Praveenyeduresi/Classification_Projects/tree/main/Banking_Churn_prediction)
 2. [Car Price Prediction](/Car%20price%20prediction)
 3. [Gold Price Prediction](/Gold%20Price%20Prediction)
 4. [House Sale Price Prediction](./House_sale_Price_Prediction)
